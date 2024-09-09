@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50F73B&random=false&width=435&lines=Welcome+to+my+Profile+on+Github!!!;Follow+my+Github+profile...)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Seth Rajarathne</h1>
+<h1 align="center">Hi 👋, I am Seth Rajarathne</h1>
 <h3 align="center">Hello,I am an undergraduate student in Artificial Intelligence and Data Science from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
